@@ -32,6 +32,7 @@ const form = ({selectedOption }) => {
 
   return (
     <>
+    
       <div className={`${styles.form}`}>
         <p className={`${styles.details}`}>Enter Details</p>
         <p className={`${styles.vouchers_details}`}>

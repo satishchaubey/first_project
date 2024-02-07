@@ -56,6 +56,7 @@ export default function Page() {
                     </div>
                   </Link>
                 </NavItem>
+                
               ))}
             </div>
             <NavItem

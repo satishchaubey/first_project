@@ -56,6 +56,7 @@ export default function Page() {
     },
   ];
 
+  
   return (
     <div className="container-fluid w-100 p-0 d-md-none fixed-bottom">
       <div className="row">

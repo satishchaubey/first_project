@@ -64,6 +64,7 @@ export default function Home() {
           className={`${styles.collapse_footer} d-md-none`}
           onClick={() => setVisibleA(!visibleA)}
         >
+          
           <div>
             <img
               src="https://www.plutos.one/images/new-home/logos/plutos%20white%20logo.svg"

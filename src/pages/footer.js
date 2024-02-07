@@ -142,6 +142,7 @@ const footer = () => {
                   <div>Media</div>
                 </div>
               </div>
+              
             </div>
           </div>
         </div>

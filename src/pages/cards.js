@@ -4,6 +4,7 @@ import styles from "@/styles/Home.module.css";
 const cards = () => {
   return (
     <>
+    
       <div className={`${styles.position_setUp}`}>
         <div className={`${styles.under_position}`}>
           <img
