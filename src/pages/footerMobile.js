@@ -61,6 +61,7 @@ const footerMobile = () => {
                   alt=""
                   className={`${styles.icons_all}`}
                 />
+                
               </span>
             </div>
           </div>
